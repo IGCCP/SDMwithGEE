@@ -1,22 +1,15 @@
 ## https://sites.google.com/utk.edu/geog-414/resources/software
-#Software
+#Software#
 
 Miniconda or Anaconda
-
 Visual Studio Code
-
 Git
-
 Google Earth Engine
-
 Google Colab
-
 GitHub Education
 
-# Package repositories
+#Package repositories#
 
 PyPI
-
 Anaconda
-
 Conda-forge
